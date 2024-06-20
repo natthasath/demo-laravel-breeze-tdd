@@ -1,6 +1,6 @@
 # 🎉 DEMO Laravel Breeze TDD
 
-Test-Driven Development (TDD) is a software development approach where tests are written before writing the corresponding code. It involves a repetitive cycle of writing a test, ensuring it fails, writing the minimum code to pass the test, and then refactoring the code while keeping all tests green.
+Laravel Testing involves using Laravel's built-in testing features, like PHPUnit, to write tests for Laravel applications. It includes unit tests, feature tests, and integration tests to ensure the functionality, performance, and reliability of Laravel applications.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
