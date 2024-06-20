@@ -80,6 +80,19 @@ php artisan make:test SendmailTest
 php artisan test
 ```
 
+- Create Factories
+
+```
+php artisan make:factory UserFactory --model=User
+```
+
+- Run Seeder
+
+```
+php artisan db:seed
+php artisan migrate --seed
+```
+
 ### 🏆 Run
 
 - [http://localhost:8000/](http://localhost:8000/) username : `admin` password : `admin`
